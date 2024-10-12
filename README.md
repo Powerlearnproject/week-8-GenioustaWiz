@@ -48,4 +48,6 @@ Select a Sustainable Development Goal (SDG) that resonates with you and develop 
 - SQL scripts
 - Excel workbook with data analysis and dashboard
 - Integration documentation
-- Pitch deck presentation
+- Pitch deck presentation 
+
+
